@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "valued-rigging-409512",
+  "private_key_id": "fa70fd80beca8a7b5321da1f4f431b211addcb58",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCu6IrAjIhOe3Wm\nY0GBhxtuAW5NwYUOMnvpnT4n0B/8OqX2Jgb8/wziTobb4Wjqsb7JyT5gzqY79cMx\nZRa5e2FfrrzkC94Bx17uJhO30IOvNFzYiLSgmp9hVmsRa40SGQxW6c6HTjGAvx1p\nH+iqzChCHJYdVKc8aVZekntnAACBTgYlYO01CLQJxsuupB8wRHLaRhnwQ5OzfpWG\nHBQ4z5/NwGCCYJ77thfqC23VQ63NSCR/MK0VP77sJaOm0Hg6knOlN8AKVVa9AD5+\nbFbXb0UqoZG7dcfZ794Ex20nVE20K6Ev5dVUz7xNs6uSGySvLdukCjG88/LLQdZT\nBwyXcKThAgMBAAECggEACiDBQxHIJUpBF2HFNeW/xPyMeXBontg1xGLkadwDdCCl\nwkV0r2Lp6TNMnBAW+gsRjf/rDqI8rjlmhHZS7Onb6zVULvzQbcgwgyf9iY3niCZH\nL4sn8WpOqw1c3Qj+JdOBO0ml2cAhfe/jGTadq4Evnhdnalqf5e/ADnEbN+1AOjx0\nsHDapoNYE7vGUiOegtb9ZeqX4yEKgSeijnUC0h0TtaS+VhJ058x9EV25NVQn+iue\nUopVmygEO1I/3w1xa+EzwsbmicIpUF1KSPEJ+yFqX+LlIyYlrTkIju697MQGqkci\nh4wCnxHci4z0hvoytntQablLuocFYrw7py+QYaaPYQKBgQDhoIwLRmTcNF/g555Y\nj7FpsG7fnYQUHRvYWqvL3/zY1s22edxZlGExxcMmbzSNQ+jHO+Wt19rkgiDmHzLZ\nnlN9L4lyBMzIpODZSUBeYpk/872i4+q+ScUzMh7CahRZwY5sLnEr0EH15JxR84zV\nQmucLmwTFOXD2S0TDM4vnLjvEQKBgQDGdCY5V95d0dHezP8r7cGb4InKDB91dI/w\neYspzgQCWy/z0izcsqYWQi5RodIFn6LXT77ZQsP8pvx41fCuQ7J4E26nBgjKXhIu\nGmCAV4gp12ROfxWrdSbhB1//W655E0Cslyu12Vn3huII979Qq0zeANtM2lAL5mk6\nwBkiyQ340QKBgQDOUtv9q3+sBpDuv5+DaNNZzKd3ATm4ku3VqQSUyN0VBUjUZxdj\nK1a+BxRv3x11WPZSyqk7kbpvX7fp9/muGyRJw+CyTUVe7bdXu66LISr22lM906Hk\nJN2Z9Wk/a3X0phUxRD7lS+oli8qO/mJ42eZBygm2YVPDBqQ7WWhrDavnoQKBgQCr\nqr+B7RuCxsSn2WaGJnXLFBG9QH1aCgmVOF6EPBzFuQGjBVUfWD5JlNgibzuQ98VS\nQT5TC+kjPYO6Nz6qUA8qxYx7WMHz5CoPzWtaud0kbJjtOguRtJZ8I/gLmdA0Fc5l\nPaNm++xSLVCL91t8OaIVjGInedWyZY7zbkaQC6FVcQKBgQDboGp8ddOv17XTEK7j\nSOH5z74rfex4ogRErLNGb4FZ+lnHK5tfk/JYSn4aENQkwAHKGy9y0uXsk4Uy3Z0u\nMttYOgBfvQTRTwRHz5KRbr9DlGg3wjQ50u24rQgSaFu8rsJYVCBENCqUfrU5r6M+\niTTiCTSr3OeFkzV6l5LibXfEzQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "blood-wallet@valued-rigging-409512.iam.gserviceaccount.com",
+  "client_id": "108024203549071926751",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/blood-wallet%40valued-rigging-409512.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
